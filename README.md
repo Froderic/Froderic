@@ -21,7 +21,7 @@ E-commerce backend with multi-entity relationships, order management system, inv
 ### [Log Analyzer CLI](https://github.com/Froderic/log-analyzer)
 Java command-line tool for parsing and analyzing server logs using regex, generating statistical reports and CSV exports for debugging assistance.
 
-## 📫 Let's Connect
+## 📫 Socials
 
 - 📧 wooseoklee26@gmail.com
 - 💼 [LeetCode Profile](https://leetcode.com/u/Froderic/) - 800+ problems solved
